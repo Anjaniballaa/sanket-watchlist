@@ -1,0 +1,17 @@
+{
+  "name": "Sanket",
+  "short_name": "Sanket",
+  "description": "Smart Market Watchlist — what deserves your attention.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#06110d",
+  "theme_color": "#00b386",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
